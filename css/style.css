@@ -80,14 +80,14 @@ span.glyphicon.glyphicon-triangle-bottom {
   padding: 4em 0;
 }
 .study-grid h3 {
-  font-family: 'Nunito-Bold';
+  font-family: 'Nunito-Bold','Microsoft YaHei';
   font-size: 2.5em;
   text-transform: capitalize;
   color: #393b3a;
 
 }
 .study-grid span {
-  color: #00cfbd;
+  color: #f0f;
   font-size: 0.9em;
 }
 .study-grid p {
@@ -141,9 +141,10 @@ span.glyphicon.glyphicon-triangle-bottom {
 .service-grid h4 {
   font-size: 1.5em;
   margin: 0.9em 0;
-    font-family: 'Nunito-Bold';
+    font-family: 'Nunito-Bold','Microsoft YaHei';
 }
 .service-grid p {
+  font-family: 'Microsoft YaHei';
   font-size: 1em;
   font-weight: 400;
   color: #9CA69D;
@@ -151,21 +152,21 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 span.glyphicon.glyphicon-pencil {
   font-size: 2em;
-  color: #C6D9C7;
+  color: #ffbaf1;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
 }
 span.glyphicon.glyphicon-phone{
 font-size: 2em;
-  color: #C6D9C7;
+  color: #ffbaf1;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
 }
 span.glyphicon.glyphicon-signal{
 font-size: 2em;
-  color: #C6D9C7;
+  color: #ffbaf1;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
